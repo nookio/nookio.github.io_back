@@ -1,24 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Ignite</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-06-06T02:03:06.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://igniteforkris.tk/"/>
+  <updated>2016-06-06T03:24:50.000Z</updated>
+  <id>http://igniteforkris.tk/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Kris wu</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试下draft文章</title>
+    <link href="http://igniteforkris.tk/2016/06/06/%E6%B5%8B%E8%AF%95%E4%B8%8Bdraft%E6%96%87%E7%AB%A0/"/>
+    <id>http://igniteforkris.tk/2016/06/06/测试下draft文章/</id>
+    <published>2016-06-06T03:24:50.000Z</published>
+    <updated>2016-06-06T03:24:50.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>人生第一次写博客</title>
+    <link href="http://igniteforkris.tk/2016/06/06/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://igniteforkris.tk/2016/06/06/人生第一次写博客/</id>
+    <published>2016-06-06T03:13:49.000Z</published>
+    <updated>2016-06-06T03:30:25.000Z</updated>
+    
+    <content type="html">&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;System.out.println(&lt;span class=&quot;string&quot;&gt;&quot;hello world&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;&lt;p&gt;Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;David Levithan&lt;/strong&gt;&lt;cite&gt;Wide Awake&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+&lt;h3 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;/h3&gt;&lt;p&gt;%% 你说呢&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span clas
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://igniteforkris.tk/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="无聊" scheme="http://igniteforkris.tk/tags/%E6%97%A0%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/06/06/hello-world/"/>
-    <id>http://yoursite.com/2016/06/06/hello-world/</id>
+    <link href="http://igniteforkris.tk/2016/06/06/hello-world/"/>
+    <id>http://igniteforkris.tk/2016/06/06/hello-world/</id>
     <published>2016-06-06T02:03:06.000Z</published>
     <updated>2016-06-06T02:03:06.000Z</updated>
     
